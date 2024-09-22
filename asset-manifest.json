@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/electrical/static/css/main.3d350eb1.css",
+    "main.js": "/electrical/static/js/main.ac78ed18.js",
+    "static/js/453.08b4a77a.chunk.js": "/electrical/static/js/453.08b4a77a.chunk.js",
+    "index.html": "/electrical/index.html",
+    "main.3d350eb1.css.map": "/electrical/static/css/main.3d350eb1.css.map",
+    "main.ac78ed18.js.map": "/electrical/static/js/main.ac78ed18.js.map",
+    "453.08b4a77a.chunk.js.map": "/electrical/static/js/453.08b4a77a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3d350eb1.css",
+    "static/js/main.ac78ed18.js"
+  ]
+}
